@@ -7,12 +7,15 @@
     <a href="https://www.instagram.com/tsybarius/" target="_blank">
        autocorp
     </a>
+    /
     <a href="https://www.instagram.com/tsybarius/" target="_blank">
        chislaprirody
     </a>
+    /
     <a href="https://www.instagram.com/tsybarius/" target="_blank">
       wish
     </a>
+    /
     <a href="https://www.linkedin.com/in/stas-jazz/" target="_blank">
       portfolio
     </a>
