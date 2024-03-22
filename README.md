@@ -4,19 +4,19 @@
   </div>
   <div id="badges">
     my projects:
-    <a href="https://www.instagram.com/tsybarius/" target="_blank">
+    <a href="https://jazzysten.github.io/autocorp" target="_blank">
        autocorp
     </a>
     /
-    <a href="https://www.instagram.com/tsybarius/" target="_blank">
+    <a href="https://jazzysten.github.io/chislaprirody" target="_blank">
        chislaprirody
     </a>
     /
-    <a href="https://www.instagram.com/tsybarius/" target="_blank">
+    <a href="https://jazzysten.github.io/wish" target="_blank">
       wish
     </a>
     /
-    <a href="https://www.linkedin.com/in/stas-jazz/" target="_blank">
+    <a href="https://jazzysten.github.io/portfolio" target="_blank">
       portfolio
     </a>
   </div>
