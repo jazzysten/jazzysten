@@ -4,20 +4,21 @@
   </div>
   <div id="badges">
     my projects:
-    <a href="https://jazzysten.github.io/autocorp" target="_blank">
-       autocorp
-    </a>
-    /
-    <a href="https://jazzysten.github.io/chislaprirody" target="_blank">
-       chislaprirody
+    <br>
+    <a href="https://jazzysten.github.io/portfolio" target="_blank">
+      portfolio
     </a>
     /
     <a href="https://jazzysten.github.io/wish" target="_blank">
       wish
     </a>
     /
-    <a href="https://jazzysten.github.io/portfolio" target="_blank">
-      portfolio
+    <a href="https://jazzysten.github.io/chislaprirody" target="_blank">
+       chislaprirody
+    </a>
+    /
+    <a href="https://jazzysten.github.io/autocorp" target="_blank">
+       autocorp
     </a>
   </div>
 </div>
