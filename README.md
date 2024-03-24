@@ -1,6 +1,6 @@
 <div align="center">
   <div id="header">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI4eDNrd2J2ZHd5YWhyMHU3MmJwaWtmMDVpeml3ZGlleW9pZG4wdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d6OqY1T6goD6M/giphy.gif" width="400"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNjdzZqcGQxaDl5aW9zOHBwMmdrcGVna20yMG05dnJhc3FwOGtpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bI8I9LaRXeN6E/giphy.gif" width="400"/>
   </div>
   <div id="badges">
     my projects:
