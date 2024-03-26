@@ -13,8 +13,12 @@
       withlove
     </a>
     /
-    <a href="https://jazzysten.github.io/chislaprirody" target="_blank">
+    <a href="https://chislaprirody.ru" target="_blank">
        chislaprirody
+    </a>
+    /
+    <a href="https://autocorporation25.ru" target="_blank">
+       autocorporation25
     </a>
     /
 <!--     <a href="https://jazzysten.github.io/autocorp" target="_blank">
