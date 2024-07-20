@@ -6,20 +6,20 @@
   <div id="badges">
     my projects:
     <br>
-    <a href="https://jazzysten.github.io/portfolio" target="_blank">
-      portfolio
-    </a>
-    /
-    <a href="https://jazzysten.github.io/withlove" target="_blank">
-      withlove
+    <a href="https://autocorporation25.ru" target="_blank">
+       autocorporation25
     </a>
     /
     <a href="https://chislaprirody.ru" target="_blank">
        chislaprirody
     </a>
     /
-    <a href="https://autocorporation25.ru" target="_blank">
-       autocorporation25
+    <a href="https://github.com/jazzysten/wishlist" target="_blank">
+      wishlist
+    </a>
+    /
+    <a href="https://jazzysten.github.io/portfolio" target="_blank">
+      portfolio
     </a>
     /
 <!--     <a href="https://jazzysten.github.io/autocorp" target="_blank">
