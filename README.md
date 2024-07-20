@@ -21,7 +21,6 @@
     <a href="https://jazzysten.github.io/portfolio" target="_blank">
       portfolio
     </a>
-    /
 <!--     <a href="https://jazzysten.github.io/autocorp" target="_blank">
        autocorp
     </a> -->
