@@ -14,16 +14,16 @@
        autocorporation25
     </a>
     /
-    <a href="https://chislaprirody.ru" target="_blank">
+    <a href="https://jazzysten.github.io/chislaprirody" target="_blank">
        chislaprirody
+    </a>
+    /
+    <a href="https://jazzysten.github.io/portfolio" target="_blank">
+      my photo portfolio
     </a>
     /
     <a href="https://github.com/jazzysten/wishlist" target="_blank">
       wishlist
-    </a>
-    /
-    <a href="https://jazzysten.github.io/portfolio" target="_blank">
-      portfolio
     </a>
   </div>
 </div>
