@@ -6,6 +6,10 @@
   <div id="badges">
     my projects:
     <br>
+    <a href="https://nativearchitect.ru" target="_blank">
+       nativearchitect
+    </a>
+    /
     <a href="https://autocorporation25.ru" target="_blank">
        autocorporation25
     </a>
@@ -21,8 +25,5 @@
     <a href="https://jazzysten.github.io/portfolio" target="_blank">
       portfolio
     </a>
-<!--     <a href="https://jazzysten.github.io/autocorp" target="_blank">
-       autocorp
-    </a> -->
   </div>
 </div>
