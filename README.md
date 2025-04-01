@@ -10,7 +10,7 @@
        nativearchitect
     </a>
     /
-    <a href="https://autocorporation25.ru" target="_blank">
+    <a href="https://jazzysten.github.io/autocorp/" target="_blank">
        autocorporation25
     </a>
     /
