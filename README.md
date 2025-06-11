@@ -1,6 +1,6 @@
 <div align="left">
   <div id="header">
-    hello everyone!!! i've been doing web page development since 2021. most of my work involves <b>realizing layouts from Figma</b>, <b>creating admin panels</b> for dynamic data on pages, also with the <b>tasks of editing sites and with their installation on the server</b>.
+    hello everyone!!! i've been doing web page development since 2022. most of my work involves <b>realizing layouts from Figma</b>, <b>creating admin panels</b> for dynamic data on pages, also with the <b>tasks of editing sites and with their installation on the server</b>.
 <br><br>
 <span><b>frontend:</b> jQuery;</span><br>
 <span><b>backend:</b> PHP, SQLite;</span>
