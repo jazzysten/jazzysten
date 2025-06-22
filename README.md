@@ -12,7 +12,7 @@
     my projects:
     <br>
     <a href="https://jazzysten.xyz" target="_blank">
-       jazz development
+       jazz-development
     </a>
     /
     <a href="https://nativearchitect.ru" target="_blank">
